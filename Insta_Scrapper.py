@@ -4,7 +4,7 @@ import numpy
 bot = instaloader.Instaloader()
 profile = instaloader.Profile.from_username(bot.context, 'akn_268_996')
 posts = profile.get_posts()
-bot.login(user="akn_268_996",passwd="n@ive_Ne@rest_Neighbor_1996_08_26")
+bot.login(user="USERNAME",passwd="PASSWORD")
 #Code For Getting usernmaes,Likes and Posts
 insta_1=[]
 insta_2=[]
