@@ -3,7 +3,7 @@ In This EDA, I have mined several deatils of My Own Insta account Like
   1.Likes
   2.Loyal Followers
   3.People who follow me back when I follow them
-  4.So On
+  4.So On and Refer My kaggle Notebook at **https://www.kaggle.com/angadk268/instagram-exploratory-data-analysis**
  
  To Run This You Will Need To Run Instagram Scrapper **(Insta_Scrapper.py)** and Most importantly install the package instaloader . Here You Need To Write Your Own Username and Password in the below code
  
@@ -12,3 +12,4 @@ In This EDA, I have mined several deatils of My Own Insta account Like
 
 ![image](https://user-images.githubusercontent.com/47116187/154483587-a846a2d3-a09e-467a-a859-bc8631ebbcaa.png)
 
+Follow Me On My Instagram at **https://www.instagram.com/akn_268_996/**
